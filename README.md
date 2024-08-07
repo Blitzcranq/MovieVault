@@ -3,7 +3,7 @@
 
 ### 
 
-### live frontend: https://MovieVault.vercel.app
+### live frontend: [https://MovieVault.vercel.app](https://movie-vault-one.vercel.app/)
 ### github Backend: https://github.com/Blitzcranq/MovieVaultAPI
 
 ## Screenshots
